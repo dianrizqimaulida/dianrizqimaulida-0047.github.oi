@@ -1,0 +1,14 @@
+body{
+    min-height: 3000px;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color: honeydew;
+}
+#projects{
+    background-color: honeydew ;
+}
+footer{
+    font-size: 30px;
+    text-indent: 18px;
+}
